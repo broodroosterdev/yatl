@@ -11,11 +11,11 @@ dependencies:
   flutter:
     sdk: flutter
   
-  intl: ^0.19.0
+  intl: ^0.20.2
   path: ^1.8.2
   yatl:
     git:
-      url: https://github.com/HrX03/yatl
+      url: https://github.com/broodroosterdev/yatl
       path: yatl
 
 dev_dependencies:
